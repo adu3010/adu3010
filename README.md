@@ -1,7 +1,11 @@
 ### Hi there 👋 Meet Aditya Gadkari 
 Hi 👋🏽 I'm a data enthusiast who loves to uncover insights from complex datasets. I have a strong background in Python programming and data visualization tools like PowerBI and Excel.
 
-🌱 I'm currently upskilling in advanced data analytics techniques and machine learning algorithms. 💻 I'm proficient in Python, PowerBI, Excel, SQL, and data wrangling/cleaning techniques. 📊 Experienced in conducting exploratory data analysis, building interactive dashboards, and communicating insights effectively. 🔍 I'm passionate about leveraging data to drive informed decision-making and solve real-world problems. 👯 I'm actively seeking opportunities in the field of Data Analytics and open to collaborating on exciting data-driven projects. 🎯 Goal: To secure an entry-level Data Analyst role and contribute to data-driven solutions that drive business growth. ⚡ Fun fact: I enjoy participating in data science competitions and hackathons to sharpen my skills.
+🌱 I'm currently upskilling in advanced data analytics techniques and machine learning algorithms. 
+💻 I'm proficient in Python, PowerBI, Excel, SQL, and data wrangling/cleaning techniques. 📊 Experienced in conducting exploratory data analysis, building interactive dashboards, and communicating insights effectively.
+🔍 I'm passionate about leveraging data to drive informed decision-making and solve real-world problems. 
+👯 I'm actively seeking opportunities in the field of Data Analytics and open to collaborating on exciting data-driven projects. 
+🎯 Goal: To secure an entry-level Data Analyst role and contribute to data-driven solutions that drive business growth. ⚡ Fun fact: I enjoy participating in data science competitions and hackathons to sharpen my skills.
 
 Areas of Expertise:
 1.Data Cleaning and Preprocessing
