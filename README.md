@@ -17,12 +17,8 @@ Areas of Expertise:
 6.Machine Learning (Supervised and Unsupervised)
 
 Let's connect and discuss how I can contribute to your organization's data analytics needs!
-<!--
-**adu3010/adu3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 'Speech Denoising in Event-Based Neural Networks
 - 👯 I’m looking to collaborate on ... Neural Networks, LLMs, GANs
 - 📫 How to reach me: ... https://www.linkedin.com/in/adityagadkari/ 
-!-->
+
