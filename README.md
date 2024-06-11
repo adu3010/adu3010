@@ -28,6 +28,5 @@ Areas of Expertise:
 Let's connect and discuss how I can contribute to your organization's data analytics needs!
 
 - 🔭 I’m currently working on ... 'Speech Denoising in Event-Based Neural Networks
-- 👯 I’m looking to collaborate on ... Neural Networks, LLMs, GANs
 - 📫 How to reach me: ... https://www.linkedin.com/in/adityagadkari/ 
 
