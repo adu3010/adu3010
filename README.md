@@ -19,11 +19,9 @@ Areas of Expertise:
 
 3.Data Visualization (PowerBI, Matplotlib, Seaborn)
 
-4.Statistical Analysis
+4.SQL Querying
 
-5.SQL Querying
-
-6.Machine Learning (Supervised and Unsupervised)
+5.Machine Learning (Supervised and Unsupervised)
 
 Let's connect and discuss how I can contribute to your organization's data analytics needs!
 
