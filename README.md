@@ -9,15 +9,12 @@ Hi 👋🏽 I'm a data enthusiast who loves to uncover insights from complex dat
 
 
 Areas of Expertise:
-![Python Logo][python](https://github.com/user-attachments/assets/e7a473f2-aced-4b3e-a6de-b0a550d3f52a)
+[Python Logo][python](https://github.com/user-attachments/assets/e7a473f2-aced-4b3e-a6de-b0a550d3f52a)
 
-![SQL Logo][sql](https://github.com/user-attachments/assets/ae9bb77c-7264-4853-8f88-c5da883a6823)
+[SQL Logo][sql](https://github.com/user-attachments/assets/ae9bb77c-7264-4853-8f88-c5da883a6823)
 
-![Power BI Logo][powerbi](https://github.com/user-attachments/assets/d38a7097-685f-49d9-bf89-60bdab3d4cba)
+[Power BI Logo][powerbi](https://github.com/user-attachments/assets/d38a7097-685f-49d9-bf89-60bdab3d4cba)
 i.png)
-
-![Looker Logo](looker![Uploading looker.svg…]()
-.png)
 
 5.Machine Learning (Supervised and Unsupervised)
 
