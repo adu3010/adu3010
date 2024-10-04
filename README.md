@@ -9,7 +9,6 @@ Hi 👋🏽 I'm a data enthusiast who loves to uncover insights from complex dat
 
 👯 I'm actively seeking opportunities in the field of Data Analytics and open to collaborating on exciting data-driven projects. 
 
-🎯 Goal: To secure an entry-level Data Analyst role and contribute to data-driven solutions that drive business growth. ⚡ Fun fact: I enjoy participating in data science competitions and hackathons to sharpen my skills.
 
 Areas of Expertise:
 
@@ -17,7 +16,7 @@ Areas of Expertise:
 
 2.Exploratory Data Analysis (EDA)
 
-3.Data Visualization (PowerBI, Matplotlib, Seaborn)
+3.Data Visualization (PowerBI, Matplotlib, Seaborn), PowerBI, Tableau, Looker
 
 4.SQL Querying
 
@@ -25,6 +24,5 @@ Areas of Expertise:
 
 Let's connect and discuss how I can contribute to your organization's data analytics needs!
 
-- 🔭 I’m currently working on ... 'Speech Denoising in Event-Based Neural Networks
-- 📫 How to reach me: ... https://www.linkedin.com/in/adityagadkari/ 
+- 📫 Reach me: ... https://www.linkedin.com/in/adityagadkari/ 
 
