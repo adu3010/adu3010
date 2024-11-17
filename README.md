@@ -1,24 +1,31 @@
-### Hi there 👋 Meet Aditya Gadkari 
-Hi 👋🏽 I'm a data enthusiast who loves to uncover insights from complex datasets. I have a strong background in Python programming and data visualization tools like PowerBI and Excel.
+👋 Hi there! I'm Aditya Gadkari
+📊 Data enthusiast passionate about uncovering insights from complex datasets. Expert in Python programming and data visualization tools!
 
-💻 I'm proficient in Python, PowerBI, Excel, SQL, and data wrangling/cleaning techniques. 📊 Experienced in conducting exploratory data analysis, building interactive dashboards, and communicating insights effectively.
+🛠️ Technical Skills:
+🐍 Python
+📈 PowerBI
+📊 Excel
+💾 SQL
+🧹 Data Wrangling & Cleaning
+🔄 ETL (Extract, Transform, Load)
 
-🔍 I'm passionate about leveraging data to drive informed decision-making and solve real-world problems. 
+💡 What I Do:
 
-👯 I'm actively seeking opportunities in the field of Data Analytics and open to collaborating on exciting data-driven projects. 
+📉 Exploratory Data Analysis
+📱 Interactive Dashboard Creation
+📢 Data-Driven Storytelling
+🎯 Problem-Solving with Data
 
+🔍 Areas of Expertise:
 
-Areas of Expertise:
-[Python Logo][python](https://github.com/user-attachments/assets/e7a473f2-aced-4b3e-a6de-b0a550d3f52a)
+📊 Data Analytics
+📈 Data Visualisation
+💾 Database Management
+🤖 Machine Learning (Supervised & Unsupervised)
 
-[SQL Logo][sql](https://github.com/user-attachments/assets/ae9bb77c-7264-4853-8f88-c5da883a6823)
+🤝 Open to full-time roles & opportunities in Data Analytics!
 
-[Power BI Logo][powerbi](https://github.com/user-attachments/assets/d38a7097-685f-49d9-bf89-60bdab3d4cba)
-i.png)
+📫 Let's Connect:
+💼 LinkedIn: linkedin.com/in/adityagadkari/
 
-5.Machine Learning (Supervised and Unsupervised)
-
-Let's connect and discuss how I can contribute to your organization's data analytics needs!
-
-- 📫 Reach me: ... https://www.linkedin.com/in/adityagadkari/ 
-
+🎯 Ready to help your organization make data-driven decisions and solve real-world challenges!
