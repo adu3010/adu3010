@@ -1,5 +1,5 @@
 👋 Hi there! I'm Aditya Gadkari
-📊 Data enthusiast passionate about uncovering insights from complex datasets. Expert in Python programming and data visualization tools!
+📊 Data enthusiast passionate about uncovering insights from complex datasets. Expertise in Python, SQL and PowerBI
 
 🛠️ Technical Skills:
 🐍 Python
