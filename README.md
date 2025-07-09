@@ -18,11 +18,10 @@ Passionate about uncovering insights from complex datasets and delivering impact
 
 ### 🛠️ Technical Skills
 
-**Data - 🐍 **Python**, 💾 **SQL**, 📈 **Power BI**, 📊 **Excel** , 🧹 **Data Wrangling & Cleaning** , 🔄 **ETL (Extract, Transform, Load)**
+**Data** - 🐍 **Python**, 💾 **SQL**, 📈 **Power BI**, 📊 **Excel** , 🧹 **Data Wrangling & Cleaning** , 🔄 **ETL (Extract, Transform, Load)**
 
-📈 **Machine Learning - SUpervised, Unsupervised, Hyperparameter Tuning**
+📈**Machine Learning - Supervised, Unsupervised, Hyperparameter Tuning**
 ---
-
 ### 🤝 I'm Open To
 - 💼 Full-time roles in **Data & AI**
 - 🌍 Open for collaborations on data-driven projects
