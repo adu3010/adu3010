@@ -1,31 +1,56 @@
-👋 Hi there! I'm Aditya Gadkari
-📊 Data enthusiast passionate about uncovering insights from complex datasets. Expertise in Python, SQL and PowerBI
+<h2 align="center">👋 Hi there! I'm Aditya Gadkari</h2>
 
-🛠️ Technical Skills:
-🐍 Python
-📈 PowerBI
-📊 Excel
-💾 SQL
-🧹 Data Wrangling & Cleaning
-🔄 ETL (Extract, Transform, Load)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-💡 What I Do:
+---
 
-📉 Exploratory Data Analysis
-📱 Interactive Dashboard Creation
-📢 Data-Driven Storytelling
-🎯 Problem-Solving with Data
+### 📊 Data Enthusiast
+Passionate about uncovering insights from complex datasets and delivering impact through data.
 
-🔍 Areas of Expertise:
+---
 
-📊 Data Analytics
-📈 Data Visualisation
-💾 Database Management
-🤖 Machine Learning (Supervised & Unsupervised)
+### 🛠️ Technical Skills
+- 🐍 **Python**
+- 💾 **SQL**
+- 📈 **Power BI**
+- 📊 **Excel**
+- 🧹 **Data Wrangling & Cleaning**
+- 🔄 **ETL (Extract, Transform, Load)**
 
-🤝 Open to full-time roles & opportunities in Data Analytics!
+---
 
-📫 Let's Connect:
-💼 LinkedIn: linkedin.com/in/adityagadkari/
+### 💡 What I Do
+- 📉 **Exploratory Data Analysis (EDA)**
+- 📱 **Interactive Dashboard Creation**
+- 📢 **Data-Driven Storytelling**
+- 🎯 **Problem Solving with Data**
 
-🎯 Ready to help your organization make data-driven decisions and solve real-world challenges!
+---
+
+### 🔍 Areas of Expertise
+- 📊 **Data Analytics**
+- 📈 **Data Visualization**
+- 💾 **Database Management**
+- 🤖 **Machine Learning (Supervised & Unsupervised)**
+
+---
+
+### 🤝 I'm Open To
+- 💼 Full-time roles in **Data Analytics**
+- 🌍 Collaborations on data-driven projects
+
+---
+
+### 📫 Let's Connect
+<a href="https://linkedin.com/in/adityagadkari/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gadkari-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+---
+
+🎯 Ready to help your organization make **data-driven decisions** and solve **real-world challenges**!
