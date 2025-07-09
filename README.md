@@ -23,15 +23,6 @@ Passionate about uncovering insights from complex datasets and delivering impact
 - 🔄 **ETL (Extract, Transform, Load)**
 
 ---
-
-### 💡 What I Do
-- 📉 **Exploratory Data Analysis (EDA)**
-- 📱 **Interactive Dashboard Creation**
-- 📢 **Data-Driven Storytelling**
-- 🎯 **Problem Solving with Data**
-
----
-
 ### 🔍 Areas of Expertise
 - 📊 **Data Analytics**
 - 📈 **Data Visualization**
@@ -41,8 +32,8 @@ Passionate about uncovering insights from complex datasets and delivering impact
 ---
 
 ### 🤝 I'm Open To
-- 💼 Full-time roles in **Data Analytics**
-- 🌍 Collaborations on data-driven projects
+- 💼 Full-time roles in **Data & AI**
+- 🌍 Open for collaborations on data-driven projects
 
 ---
 
