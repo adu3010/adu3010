@@ -23,14 +23,7 @@ Passionate about uncovering insights from complex datasets and delivering impact
 - 📊 **Excel**
 - 🧹 **Data Wrangling & Cleaning**
 - 🔄 **ETL (Extract, Transform, Load)**
-
----
-### 🔍 Areas of Expertise
-- 📊 **Data Analytics**
-- 📈 **Data Visualization**
-- 💾 **Database Management**
-- 🤖 **Machine Learning (Supervised & Unsupervised)**
-
+- 📈 **Machine Learning - SUpervised, Unsupervised, Hyperparameter Tuning**
 ---
 
 ### 🤝 I'm Open To
