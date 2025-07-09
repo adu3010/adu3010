@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Important-brightgreen"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen"/>
 
 </p>
 
