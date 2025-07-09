@@ -35,13 +35,9 @@ Passionate about uncovering insights from complex datasets and delivering impact
 - 💼 Full-time roles in **Data & AI**
 - 🌍 Open for collaborations on data-driven projects
 
----
-
 ### 📫 Let's Connect
 <a href="https://linkedin.com/in/adityagadkari/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gadkari-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
----
-
-🎯 Ready to help your organization make **data-driven decisions** and solve **real-world challenges**!
+🎯 Ready to help your organisation make **data-driven decisions** and solve **real-world challenges**!
